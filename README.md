@@ -30,6 +30,7 @@ PCB Schematic Images: (Finished Design)
 <img width="529" height="747" alt="image" src="https://github.com/user-attachments/assets/fd080422-fd12-4f98-b122-fefb5e6cc101" />
 
 PCB Editor: (Finished Design)
+
 <img width="734" height="551" alt="image" src="https://github.com/user-attachments/assets/0416c598-6552-40c7-a685-55cc3d28f7d4" />
 
 PCB Board 
