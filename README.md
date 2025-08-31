@@ -20,7 +20,7 @@ The goal was to better understand how PCBs are made, starting from schematic cap
 ---
 
 ## 🖼️ PCB Preview
-*(Add a screenshot of your PCB here — top view, 3D render, or schematic)*
+
 
 PCB Schematic Images: (Finished Design) 
 <img width="1531" height="1055" alt="image" src="https://github.com/user-attachments/assets/2480c2ed-3f13-414b-91ae-97fdf505b25c" />
