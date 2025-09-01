@@ -22,12 +22,18 @@ The goal was to better understand how PCBs are made, starting from schematic cap
 ## 🖼️ PCB Preview
 
 
+
 PCB Schematic Images: (Finished Design) 
+
 <img width="1531" height="1055" alt="image" src="https://github.com/user-attachments/assets/2480c2ed-3f13-414b-91ae-97fdf505b25c" />
 
 <img width="1202" height="1035" alt="image" src="https://github.com/user-attachments/assets/8cb06c59-067f-4e88-8ea4-95a63a21a44f" />
 
 <img width="529" height="747" alt="image" src="https://github.com/user-attachments/assets/fd080422-fd12-4f98-b122-fefb5e6cc101" />
+
+STM32CubeIDE 1.18.1:
+
+<img width="740" height="767" alt="image (6)" src="https://github.com/user-attachments/assets/16b2f49f-9cc3-419a-a0a6-9a1f796d99e4" />
 
 PCB Editor: (Finished Design)
 
